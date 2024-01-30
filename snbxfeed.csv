@@ -1,0 +1,11 @@
+## RECSRecommendations Upload File,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,
+## RECS,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,
+## RECSentity.id,entity.name,entity.thumbnailUrl,entity.value,entity.category,entity.description,entity.categoryId
+MH13,Marco Lightweight Active Hoodie,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/h/mh13-blue_main_2.jpg,74,Men / Tops,"<p>For cold-weather training or post-game layering, you need something more than a basic fleece. Our Marco Lightweight Active Hoodie brings both style and performance to the plate, court, or touchline. The smooth-faced, brushed-back fabric blocks wind and traps body heat, while integrated Cocona&reg; fibers pull moisture away.</p>
+<p>&bull; Light blue heather full zip hoodie.<br />&bull; Fitted flatlock seams.<br />&bull; Matching lining and drawstring. <br />&bull; Machine wash/dry.</p>",15
+MS01,Aero Daily Fitness Tee,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/s/ms01-blue_main_1.jpg,24,Men / Tops,"<p>Need an everyday action tee that helps keep you dry? The Aero Daily Fitness Tee is made of 100% polyester wicking knit that funnels moisture away from your skin. Don't be fooled by its classic style; this tee hides premium performance technology beneath its unassuming look.</p>
+<p>Relaxed fit. <br>Short-Sleeve. <br>Machine wash/dry.</p>",14
