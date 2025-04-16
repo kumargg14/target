@@ -1,12 +1,8 @@
-## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,
-## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,
-## RECS,,,,,,,,,,,,,,,,,,,
-## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,
-## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
-## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
-## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
-MH13,Marco Lightweight Active Hoodie,"[12, 15]",snbxTEST,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/h/mh13-blue_main_2.jpg,Men / Tops,https://dsn.adobe.com/web/experiencelab/product?productId=MH13,,,74.00$,,,,,,,,,,
-MS01,Aero Daily Fitness,"[12, 16]",snbxTEST,"https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/s/ms01-blue_main_1.jpg,",Men / Tops,https://dsn.adobe.com/web/experiencelab/product?productId=MS01,,,24.00$,,,,,,,,,,
-MP09,Livingston All-Purpose Tight,"[8, 13, 32, 34, 18]",snbxTEST,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/p/mp09-blue_main_1.jpg,New Luma Yoga Collection,https://dsn.adobe.com/web/experiencelab/product?productId=MP09,,,75.00$,,,,,,,,,,
-MSH06,Lono Yoga Short,"[8, 13, 19]",snbxTEST,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/s/msh06-gray_main_2.jpg,New Luma Yoga Collection,https://dsn.adobe.com/web/experiencelab/product?productId=MSH06,,,32.00$,,,,,,,,,,
-MP03,Geo Insulated Jogging Pant,"[8, 13, 32, 18]",snbxTEST,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/p/mp03-black_main_1.jpg,New Luma Yoga Collection,https://dsn.adobe.com/web/experiencelab/product?productId=MP03,,,52.00$,,,,,,,,,,
+## RECSRecommendations Upload File
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.
+## RECS
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1
+MH13,Marco Lightweight Active Hoodie,”[12, 15]”,snbxTEST,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/h/mh13-blue_main_2.jpg,Men/Top,https://dsn.adobe.com/web/experiencelab/product?productId=MH13,12,13,”74.00$”
