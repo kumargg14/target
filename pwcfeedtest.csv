@@ -5,4 +5,4 @@
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.
 ## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1
-MH13,Marco Lightweight Active Hoodie,”[12, 15]”,snbxTEST,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/h/mh13-blue_main_2.jpg,Men/Top,https://dsn.adobe.com/web/experiencelab/product?productId=MH13,12,13,”74.00$”
+MH13,Marco Lightweight Active Hoodie,13,snbxTEST,https://magdev11.adobedemo.com/media/catalog/product/cache/7fa649b51b890fd1480d6dfbd7897a94/m/h/mh13-blue_main_2.jpg,Men/Top,https://dsn.adobe.com/web/experiencelab/product?productId=MH13,12,13,”74.00$”
